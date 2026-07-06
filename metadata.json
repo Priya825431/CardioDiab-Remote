@@ -1,0 +1,6 @@
+{
+  "name": "Remote Chronic Disease Monitor",
+  "description": "Remote healthcare prioritizer and chronic disease monitoring system for diabetic and cardiac patients with intelligent scoring, dual dashboards, and clinical alert generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
